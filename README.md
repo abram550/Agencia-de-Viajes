@@ -1,20 +1,21 @@
-# Agencia de Viajes
+# AGENCIA DE VIAJES
 Trabajo colaborativo de la materia de Base de Datos.
 ---
 
-## Integrantes
+## Integrantes:
+---
 Abraham Josue Rojas Farelo
----
+--
 Stevinson Iguaran Deluque
----
+--
 Jose Alfredo Ruedas
----
+--
 Maria Elvira Doria 
----
-
+--
 <p>
 
 ### ¡Ejercicio 5!
+  ---
 
 A partir del siguiente enunciado, se diseñara una base de datos.
 
