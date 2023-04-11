@@ -4,13 +4,10 @@ Trabajo colaborativo de la materia de Base de Datos.
 
 ## Integrantes:
 ---
-Abraham Josue Rojas Farelo
---
-Stevinson Iguaran Deluque
---
-Jose Alfredo Ruedas
---
-Maria Elvira Doria 
+### Abraham Josue Rojas Farelo
+### Stevinson Iguaran Deluqu
+### Jose Alfredo Rueda Vanegas
+### Maria Elvira Doria 
 --
 <p>
 
